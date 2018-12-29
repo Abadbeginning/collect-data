@@ -11,4 +11,30 @@ Docker+Kubernetes(k8s)微服务容器化实战
 黑马2018JAVA基础班IDEA
 下载地址：https://pan.baidu.com/s/1ofAYmgTZqG1KAZ0H_jaGHA  密码：miyq
 
+Python3网络爬虫实战案例
+链接:https://pan.baidu.com/s/1SYT04Vsxm3kUKR5z72Qnsw 提取码:z6yz 
+
+算法_图搜索等
+链接:https://pan.baidu.com/s/1qICl-MSxjFkgskQpIivPMw 提取码:sxr8
+
+Spring Cloud微服务实战 最新版 
+https://pan.baidu.com/s/1LiYsIp_IaBQ5HE9bTj1lWA 密码:35f0
+
+SpringBoot(微信点餐
+链接:https://pan.baidu.com/s/1xaFvQAArDnbB58I4-P0wfQ 密码:8t7w
+
+springboot微信点餐系统链接: https://pan.baidu.com/s/1fyj5z1JEbrLs4xJIwaPnCw 提取码: 9xe1 
+
+链接: https://pan.baidu.com/s/1ldm4S78YcjTX-G_Nz5VAhQ 提取码: m8m8
+链接：https://pan.baidu.com/s/1kHIrkSWmS56Aj3R49ID2Hg 密码：kng2
+
+Java SSM开发大众点评后端
+链接:https://pan.baidu.com/s/1HyP09rdj4wIcEAxTb0-xsA 提取码:6p4w 
+
+数据结构和算法
+链接：https://pan.baidu.com/s/1U37Uq1gvVJfo3-2kpc47zA 提取码：LSC8 
+
+
+
+
 

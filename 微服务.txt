@@ -1,3 +1,5 @@
 Netty+Springboot仿微信聊天全栈实战-Java仿微信全栈
 https://pan.baidu.com/s/1wwQ6me4e_kMcH_Ku3nmYeQ#list/path=%2F 提取码：pua2
 
+基于 Spring Boot + Spring Cloud 实现天气预报系统
+https://pan.baidu.com/s/1BnkPrNfhAmOntk5Wdr0BDA 提取码：ufyh

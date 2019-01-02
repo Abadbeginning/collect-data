@@ -2,3 +2,7 @@ vuejs高仿饿了么APP
 链接:https://pan.baidu.com/s/1jKiWC8u#list/path=%2F 密码: ndpt 
 (对应的源码   https://github.com/ustbhuangyi/vue-sell
 学习笔记总结  https://segmentfault.com/a/1190000009356676)
+
+某内的2018的最新前端
+https://pan.baidu.com/s/1D6U68eM9Muxr1anquaiP5g#list/path=%2F 提取码：z97r
+

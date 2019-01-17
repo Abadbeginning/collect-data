@@ -12,7 +12,10 @@ https://pan.baidu.com/s/1BnkPrNfhAmOntk5Wdr0BDA 提取码：ufyh
 提取码：xrkr 
 
 Docker+Kubernetes(k8s)微服务容器化实践
-
+压缩版
 网盘地址：https://pan.baidu.com/s/1DAN8I4RFc6MLsBJGwAkoxQ 密码: 1gjd
 
 备用地址（腾讯微云）：https://share.weiyun.com/5ZcsfIX 密码：udrifz
+
+非压缩版
+链接：https://pan.baidu.com/s/1eeH5JTGDkBAIxYdiiMp1uQ 密码：ilf7

@@ -22,3 +22,4 @@ Docker+Kubernetes(k8s)微服务容器化实践
 
 springcloud
 课程资料，链接:https://pan.baidu.com/s/1SgXJXwSePYS6a9OL37VpPw 提取码:tr7k
+https://segmentfault.com/a/1190000016817927
